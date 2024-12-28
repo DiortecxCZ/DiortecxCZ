@@ -5,10 +5,11 @@ I am a programmer from the Czech Republic and have been programming for 1.5 year
 ## 💻 Main Project
 [TechnoDiort Discord Bot](https://github.com/DiortecxCZ/TechnoDiort)
 
-## 💡 Technologies
-- **Programming Languages:** JavaScript, HTML & CSS
-- **Frameworks & Libraries:** Discord.js, Node.js, Express.js
+## 🛠️ Technologies I Use
+- **Programming Languages:** JavaScript, TypeScript, HTML, CSS
+- **Libraries & Frameworks:** React, Next.js, Discord.js, Node.js, Express.js
 - **Database:** MongoDB
+- **Other Tools:** Apple Ecosystem
 
 ## 🚀 Currently Learning
 - **React**
@@ -20,12 +21,6 @@ Feel free to reach out or explore my projects here on GitHub!
 [Join the TechnoDiort Discord server](https://discord.gg/DMXdNU5fpm)
 
 ---
-
-## 🛠️ Technologies I Use
-- **Programming Languages:** JavaScript, TypeScript, HTML, CSS
-- **Libraries & Frameworks:** React, Next.js, Discord.js, Node.js, Express.js
-- **Database:** MongoDB
-- **Other Tools:** Apple Ecosystem
 
 ---
 
