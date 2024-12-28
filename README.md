@@ -26,8 +26,6 @@ I am a programmer from the Czech Republic and have been programming for 1.5 year
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
 </div>
 
----
-
 ## 💻 Main Project
 [TechnoDiort Discord Bot](https://github.com/DiortecxCZ/TechnoDiort)
 
