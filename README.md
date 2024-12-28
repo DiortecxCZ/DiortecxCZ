@@ -17,10 +17,7 @@ I am a programmer from the Czech Republic and have been programming for 1.5 year
 - **TypeScript**
 
 ## 📫 Reach Out!
-Feel free to reach out or explore my projects here on GitHub!  
-[Join the TechnoDiort Discord server](https://discord.gg/DMXdNU5fpm)
-
----
+Feel free to reach out or explore my projects here on GitHub! 
 
 <div align="left">
   <a href="https://discord.gg/DMXdNU5fpm" target="_blank">
