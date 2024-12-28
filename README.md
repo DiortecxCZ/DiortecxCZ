@@ -27,7 +27,7 @@ I am a programmer from the Czech Republic and have been programming for 1.5 year
 </div>
 
 ## 💻 Main Project
-[TechnoDiort Discord Bot](https://discord.gg/DMXdNU5fpm)
+- [TechnoDiort Discord Bot](https://discord.gg/DMXdNU5fpm)
 
 ## 🛠️ Technologies I Use
 - **Programming Languages:** JavaScript, TypeScript, HTML, CSS
