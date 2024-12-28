@@ -22,6 +22,14 @@ Feel free to reach out or explore my projects here on GitHub!
 
 ---
 
+<div align="left">
+  <a href="https://discord.gg/DMXdNU5fpm" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=TechnoDiort&color=7289DA&logoColor=white&labelColor=007fce&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+---
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
