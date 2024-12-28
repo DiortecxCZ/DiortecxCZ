@@ -36,8 +36,7 @@ I am a programmer from the Czech Republic and have been programming for 1.5 year
 - **Other Tools:** Apple Ecosystem
 
 ## 🚀 Currently Learning
-- **React**
-- **Next.js**
+- **React --> Next.js**
 - **TypeScript**
 
 ## 📫 Reach Out!
