@@ -31,13 +31,14 @@ I am a programmer from the Czech Republic and have been programming for 1.5 year
 
 ## 🛠️ Technologies I Use
 - **Programming Languages:** JavaScript, TypeScript, HTML, CSS
-- **Libraries & Frameworks:** React, Next.js, Discord.js, Node.js, Express.js
+- **Libraries & Frameworks:** Next.js, Discord.js, Node.js, Express.js
 - **Database:** MongoDB
-- **Other Tools:** Apple Ecosystem
+- **Other Tools:** Apple products (iPhone 16 Pro, Macbook Air M2, AirPods 1st gen)
 
 ## 🚀 Currently Learning
-- **React --> Next.js**
+- **Next.js**
 - **TypeScript**
+- **Tailwind CSS**
 
 ## 📫 Reach Out!
 Feel free to reach out or explore my projects here on GitHub! 
