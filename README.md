@@ -33,7 +33,7 @@ I am a programmer from the Czech Republic and have been programming for 2 years,
 - **Programming Languages:** JavaScript, TypeScript, HTML, CSS
 - **Libraries & Frameworks:** Next.js, Discord.js, Node.js, Express.js
 - **Database:** MongoDB
-- **Other Tools:** Apple products (iPhone 16 Pro, Macbook Air M2, AirPods 1st gen)
+- **Other Tools:** Apple products (iPhone 16 Pro, Macbook Air M2, AirPods 4)
 
 ## 🚀 Currently Learning
 - **Next.js**
