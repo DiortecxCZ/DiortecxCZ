@@ -1,6 +1,6 @@
 # Hi 👋, I'm DiortecxCZ!
 
-I am a programmer from the Czech Republic and have been programming for 1.5 years, focusing on building practical projects that bring value to the community.
+I am a programmer from the Czech Republic and have been programming for 2 years, focusing on building practical projects that bring value to the community.
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
