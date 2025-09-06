@@ -27,13 +27,13 @@ I am a programmer from the Czech Republic and have been programming for 2 years,
 </div>
 
 ## 💻 Main Project
-- TechnoDiort Discord Bot | [Discord server](https://discord.gg/DMXdNU5fpm) | [Website](https://technodiort.eu/)
+- TechnoDiort Discord Bot | [Discord server](https://discord.gg/DMXdNU5fpm)
 
 ## 🛠️ Technologies I Use
 - **Programming Languages:** JavaScript, TypeScript, HTML, CSS
 - **Libraries & Frameworks:** Next.js, Discord.js, Node.js, Express.js
 - **Database:** MongoDB
-- **Other Tools:** Apple products (iPhone 16 Pro, Macbook Air M2, AirPods 4)
+- **Other Tools:** Apple products (iPhone 16 Pro, Macbook Air M2, iPad Air M3, AirPods 4)
 
 ## 🚀 Currently Learning
 - **Next.js**
@@ -42,11 +42,3 @@ I am a programmer from the Czech Republic and have been programming for 2 years,
 
 ## 📫 Reach Out!
 Feel free to reach out or explore my projects here on GitHub! 
-
-<div align="left">
-  <a href="https://discord.gg/DMXdNU5fpm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=TechnoDiort&color=7289DA&logoColor=white&labelColor=007fce&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
-<img align="right" height="150" src="https://imgur.com/7uOp7C8.gif"  />
