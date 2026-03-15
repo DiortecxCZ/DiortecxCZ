@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Tomáš — DiortecxCZ
 
-**Full-stack developer from the Czech Republic**  
+**Developer from the Czech Republic**  
 Focused on performance, clean code, and modern infrastructure.
 
 I build things that are useful and work reliably — from websites to REST APIs and modern dashboards.
