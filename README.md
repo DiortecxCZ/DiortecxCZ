@@ -40,7 +40,6 @@ I assembled my first PC at home at age 13, and I've been hooked ever since.
 ### 📊 GitHub Stats
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=DiortecxCZ&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiortecxCZ&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
