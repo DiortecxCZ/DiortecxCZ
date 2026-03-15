@@ -1,6 +1,10 @@
 # Hi 👋, I'm DiortecxCZ!
 
-I am a programmer from the Czech Republic and have been programming for 2 years, focusing on building practical projects that bring value to the community.
+Hi, my name is Tomáš and I am a developer from the Czech Republic focusing on performance, clean code, and modern infrastructure.
+I enjoy building things that are useful and work reliably — from simple websites to REST APIs and modern dashboards. I use various devices for my development, primarily a Windows desktop or a MacBook Air M2.
+Beyond coding, I am very interested in modern technologies and hardware. I built my first computer myself at home when I was 13 years old.
+
+My portfolio: https://tomaschytil.site
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -27,19 +31,15 @@ I am a programmer from the Czech Republic and have been programming for 2 years,
 </div>
 
 
-## 💻 Main Project
-- TechnoDiort Discord Bot | [Discord server](https://discord.gg/DMXdNU5fpm)
+## 💻 Websites created by me
+- Activties 4You | [Link](https://a4y.cz)
+- U Vejvodů | [Link](https://uvejvodu.com)
+- SejdaJanys | [Link](https://sejdajanys.cz)
 
 ## 🛠️ Technologies I Use
-- **Programming Languages:** JavaScript, TypeScript, HTML, CSS
-- **Libraries & Frameworks:** Next.js, Discord.js, Node.js, Express.js
+- **Tech stack**: React, Next.js, Node.js, Express.js, TypeScript, JavaScript, MongoDB, TailwindCSS, Git
 - **Database:** MongoDB
 - **Other Tools:** Apple products (iPhone 16 Pro, Macbook Air M2, iPad Air M3, AirPods 4)
-
-## 🚀 Currently Learning
-- **Next.js**
-- **TypeScript**
-- **Tailwind CSS**
 
 ## 📫 Reach Out!
 Feel free to reach out or explore my projects here on GitHub! 
