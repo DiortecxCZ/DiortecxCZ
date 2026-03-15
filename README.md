@@ -1,45 +1,51 @@
-# Hi 👋, I'm DiortecxCZ!
-
-Hi, my name is Tomáš and I am a developer from the Czech Republic focusing on performance, clean code, and modern infrastructure.
-I enjoy building things that are useful and work reliably — from simple websites to REST APIs and modern dashboards. I use various devices for my development, primarily a Windows desktop or a MacBook Air M2.
-Beyond coding, I am very interested in modern technologies and hardware. I built my first computer myself at home when I was 13 years old.
-
-My portfolio: https://tomaschytil.site
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
+
+# Hi 👋, I'm Tomáš — DiortecxCZ
+
+**Full-stack developer from the Czech Republic**  
+Focused on performance, clean code, and modern infrastructure.
+
+I build things that are useful and work reliably — from websites to REST APIs and modern dashboards.
+I assembled my first PC at home at age 13, and I've been hooked ever since.
+
+🌐 **Portfolio:** [tomaschytil.site](https://tomaschytil.site)
+
+---
+
+### 🛠 Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+| Project | Link |
+|---------|------|
+| Activities 4You | [a4y.cz](https://a4y.cz) |
+| U Vejvodů | [uvejvodu.com](https://uvejvodu.com) |
+| SejdaJanys | [sejdajanys.cz](https://sejdajanys.cz) |
+
+---
+
+### 📊 GitHub Stats
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=DiortecxCZ&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiortecxCZ&layout=compact&theme=tokyonight&hide_border=true" />
+
+---
+
+### 📫 Reach out
+
+Feel free to explore my projects or visit my [portfolio](https://tomaschytil.site)!
+
 </div>
-
-
-## 💻 Websites created by me
-- Activties 4You | [Link](https://a4y.cz)
-- U Vejvodů | [Link](https://uvejvodu.com)
-- SejdaJanys | [Link](https://sejdajanys.cz)
-
-## 🛠️ Technologies I Use
-- **Tech stack**: React, Next.js, Node.js, Express.js, TypeScript, JavaScript, MongoDB, TailwindCSS, Git
-- **Database:** MongoDB
-- **Other Tools:** Apple products (iPhone 16 Pro, Macbook Air M2, iPad Air M3, AirPods 4)
-
-## 📫 Reach Out!
-Feel free to reach out or explore my projects here on GitHub! 
